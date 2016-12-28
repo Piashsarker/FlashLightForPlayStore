@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806154258163",
+    "firebase_url": "https://flashlightforplaystore.firebaseio.com",
+    "project_id": "flashlightforplaystore",
+    "storage_bucket": "flashlightforplaystore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806154258163:android:9e11d32eab44a4c1",
+        "android_client_info": {
+          "package_name": "com.learnpoint.pt.flashlightforplaystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806154258163-ii2oa2v4edk52qsivrfn3b7v51jpga26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnpoint.pt.flashlightforplaystore",
+            "certificate_hash": "08F78D67B3BA1C40B9FEB0FA1514134D74204639"
+          }
+        },
+        {
+          "client_id": "806154258163-q9dpg87r1sfqonjj3ng114gkjjlheboi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ0__J5Xj-TGUTKDBxXhr29uY5yAReuHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806154258163-q9dpg87r1sfqonjj3ng114gkjjlheboi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

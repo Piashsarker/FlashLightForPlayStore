@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flash Light</string>
+    <string name="license">License</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_title_licenses">License</string>
+    <string name="license_title_developer">Piash Sarker</string>
+    <string name="license_author_developer">https://play.google.com/store/apps/developer?id=Piash+Sarker</string>
+    <string name="license_developer_email">sarkerpt@gmail.com</string>
+    <string name="license_developer_phone">+8801683193505</string>
+    <string name="share">Share</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="battery_text"> "Health: "+health+"\n"+
+                            "Level: "+level+"\n"+
+                            "Plugged: "+plugged+"\n"+
+                            "Present: "+present+"\n"+
+                            "Scale: "+scale+"\n"+
+                            "Status: "+status+"\n"+
+                            "Technology: "+technology+"\n"+
+                            "Temperature: "+temperature+"\n"+
+                            "Voltage: "+voltage+"\n"</string>
+    <string name="bug">Submit Bug</string>
+    <string name="banner_add_unit_id">ca-app-pub-1714609736931391/4616633260</string>
+</resources>
